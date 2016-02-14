@@ -1,0 +1,15 @@
+export CC=arm-uclinuxeabi-gcc
+export CPP=arm-uclinuxeabi-cpp
+export CXX=arm-uclinuxeabi-g++
+export AS=arm-uclinuxeabi-as
+export AR=arm-uclinuxeabi-ar
+export LD=arm-uclinuxeabi-ld
+export NM=arm-uclinuxeabi-nm
+export STRIP=arm-uclinuxeabi-strip
+export RANLIB=arm-uclinuxeabi-ranlib
+export OBJDUMP=arm-uclinuxeabi-objdump
+
+export CFLAGS="-I. -I/usr/local/hujiafu/minigui/cross/arm/cortex-m3/include -mcpu=cortex-m3 -mthumb -static"
+export LDFLAGS="-L/usr/local/hujiafu/minigui/cross/arm/cortex-m3/lib"
+
+./configure --build=i686-linux --host=arm-linux --enable-static=yes --enable-shared=no --enable-linear=static --enable-input=static --prefix=/usr/local/hujiafu/minigui/cross/arm/cortex-m3

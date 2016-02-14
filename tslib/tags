@@ -1,0 +1,650 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+ABS_CNT	plugins/galax-raw.c	39;"	d	file:
+ABS_CNT	plugins/input-raw.c	37;"	d	file:
+ABS_MT_POSITION_X	plugins/input-raw.c	44;"	d	file:
+ABS_MT_POSITION_Y	plugins/input-raw.c	45;"	d	file:
+ACORN8x8_IDX	tests/font.h	30;"	d
+ASLEEP_SCANRATE	plugins/cy8mrln-palmpre.c	52;"	d	file:
+BIT	plugins/galax-raw.c	54;"	d	file:
+BIT	plugins/input-raw.c	66;"	d	file:
+BITS_PER_BYTE	plugins/galax-raw.c	50;"	d	file:
+BITS_PER_BYTE	plugins/input-raw.c	69;"	d	file:
+BITS_PER_LONG	plugins/galax-raw.c	51;"	d	file:
+BITS_PER_LONG	plugins/input-raw.c	70;"	d	file:
+BITS_TO_LONGS	plugins/galax-raw.c	57;"	d	file:
+BITS_TO_LONGS	plugins/input-raw.c	71;"	d	file:
+BIT_MASK	plugins/galax-raw.c	55;"	d	file:
+BIT_MASK	plugins/input-raw.c	67;"	d	file:
+BIT_WORD	plugins/galax-raw.c	56;"	d	file:
+BIT_WORD	plugins/input-raw.c	68;"	d	file:
+BUFFER_SIZE	plugins/touchkit-raw.c	/^	BUFFER_SIZE = 100,$/;"	e	enum:__anon3	file:
+BUF_SIZE	src/ts_config.c	23;"	d	file:
+BUF_SIZE	src/ts_parse_vars.c	21;"	d	file:
+BUTTON_ACTIVE	tests/ts_test.c	36;"	d	file:
+CreateProcess	ltmain.sh	/^   CreateProcess().  We must quote the arguments since Win32 CreateProcess()$/;"	f
+DEFAULT_GESTURE_HEIGHT	plugins/cy8mrln-palmpre.c	42;"	d	file:
+DEFAULT_NOISE	plugins/cy8mrln-palmpre.c	43;"	d	file:
+DEFAULT_PRESSURE	plugins/cy8mrln-palmpre.c	44;"	d	file:
+DEFAULT_SCANRATE	plugins/cy8mrln-palmpre.c	36;"	d	file:
+DEFAULT_SENSOR_DELTA_X	plugins/cy8mrln-palmpre.c	45;"	d	file:
+DEFAULT_SENSOR_DELTA_Y	plugins/cy8mrln-palmpre.c	46;"	d	file:
+DEFAULT_SENSOR_OFFSET_X	plugins/cy8mrln-palmpre.c	47;"	d	file:
+DEFAULT_SENSOR_OFFSET_Y	plugins/cy8mrln-palmpre.c	48;"	d	file:
+DEFAULT_SLEEPMODE	plugins/cy8mrln-palmpre.c	39;"	d	file:
+DEFAULT_TIMESTAMP_MODE	plugins/cy8mrln-palmpre.c	41;"	d	file:
+DEFAULT_VERBOSE	plugins/cy8mrln-palmpre.c	37;"	d	file:
+DEFAULT_WOT_SCANRATE	plugins/cy8mrln-palmpre.c	40;"	d	file:
+DEFAULT_WOT_THRESHOLD	plugins/cy8mrln-palmpre.c	38;"	d	file:
+DISCARD_FRAMES	plugins/cy8mrln-palmpre.c	53;"	d	file:
+DIV_ROUND_UP	plugins/galax-raw.c	53;"	d	file:
+DIV_ROUND_UP	plugins/input-raw.c	65;"	d	file:
+EV_CNT	plugins/galax-raw.c	36;"	d	file:
+EV_CNT	plugins/input-raw.c	34;"	d	file:
+EV_SYN	plugins/galax-raw.c	33;"	d	file:
+EV_SYN	plugins/input-raw.c	31;"	d	file:
+FONTDATAMAX	tests/font_8x16.c	9;"	d	file:
+FONTDATAMAX	tests/font_8x8.c	9;"	d	file:
+GRAB_EVENTS_ACTIVE	plugins/galax-raw.c	48;"	d	file:
+GRAB_EVENTS_ACTIVE	plugins/input-raw.c	51;"	d	file:
+GRAB_EVENTS_WANTED	plugins/galax-raw.c	47;"	d	file:
+GRAB_EVENTS_WANTED	plugins/input-raw.c	50;"	d	file:
+H_FIELDS	plugins/cy8mrln-palmpre.c	34;"	d	file:
+IsStart	plugins/touchkit-raw.c	39;"	d	file:
+KEY_CNT	plugins/galax-raw.c	42;"	d	file:
+KEY_CNT	plugins/input-raw.c	40;"	d	file:
+M20	plugins/linear-h2200.c	52;"	d	file:
+M32	plugins/linear-h2200.c	53;"	d	file:
+MAX_FONT_NAME	tests/font.h	36;"	d
+MAX_SAMPLES	tests/testutils.c	34;"	d	file:
+MAX_VALUE	plugins/cy8mrln-palmpre.c	51;"	d	file:
+MIN_VALUE	plugins/cy8mrln-palmpre.c	50;"	d	file:
+NR_BUTTONS	tests/ts_test.c	46;"	d	file:
+NR_COLORS	tests/ts_calibrate.c	37;"	d	file:
+NR_COLORS	tests/ts_harvest.c	34;"	d	file:
+NR_COLORS	tests/ts_test.c	30;"	d	file:
+NR_SAMPHISTLEN	plugins/dejitter.c	44;"	d	file:
+NR_STEPS	tests/ts_calibrate.c	140;"	d	file:
+NR_VARS	plugins/cy8mrln-palmpre.c	445;"	d	file:
+NR_VARS	plugins/dejitter.c	198;"	d	file:
+NR_VARS	plugins/galax-raw.c	296;"	d	file:
+NR_VARS	plugins/input-raw.c	346;"	d	file:
+NR_VARS	plugins/linear.c	151;"	d	file:
+NR_VARS	plugins/pthres.c	133;"	d	file:
+NR_VARS	plugins/variance.c	162;"	d	file:
+PACKET_SIGNATURE	plugins/touchkit-raw.c	/^	PACKET_SIGNATURE = 0x81$/;"	e	enum:__anon3	file:
+PACKET_SIZE	plugins/touchkit-raw.c	/^	PACKET_SIZE = 5,$/;"	e	enum:__anon3	file:
+PEARL8x8_IDX	tests/font.h	26;"	d
+SCREEN_HEIGHT	plugins/cy8mrln-palmpre.c	33;"	d	file:
+SCREEN_WIDTH	plugins/cy8mrln-palmpre.c	32;"	d	file:
+SUN12x22_IDX	tests/font.h	29;"	d
+SUN8x16_IDX	tests/font.h	28;"	d
+TSAPI	src/tslib.h	35;"	d
+TSAPI	src/tslib.h	37;"	d
+TSEXPORT	src/tslib.h	21;"	d
+TSEXPORT	src/tslib.h	26;"	d
+TSEXPORT	src/tslib.h	29;"	d
+TSIMPORT	src/tslib.h	20;"	d
+TSIMPORT	src/tslib.h	24;"	d
+TSLIB_DECLARE_MODULE	plugins/plugins.h	1;"	d
+TSLIB_MODULE_INIT	src/tslib-filter.h	41;"	d
+TSLOCAL	src/tslib.h	22;"	d
+TSLOCAL	src/tslib.h	27;"	d
+TSLOCAL	src/tslib.h	30;"	d
+TS_BUFFER_MAX	tests/testutils.c	102;"	d	file:
+TS_SCREEN_RES	src/tslib.h	/^	TS_SCREEN_RES = 0,						\/* 2 integer args, x and y *\/$/;"	e	enum:ts_param
+TS_SCREEN_ROT	src/tslib.h	/^	TS_SCREEN_ROT,							\/* 1 integer arg, 1 = rotate *\/$/;"	e	enum:ts_param
+VAR_LASTVALID	plugins/variance.c	41;"	d	file:
+VAR_NOISEVALID	plugins/variance.c	42;"	d	file:
+VAR_PENDOWN	plugins/variance.c	40;"	d	file:
+VAR_SUBMITNOISE	plugins/variance.c	43;"	d	file:
+VERSION_0100	plugins/galax-raw.c	61;"	d	file:
+VERSION_0112	plugins/galax-raw.c	59;"	d	file:
+VERSION_210	plugins/galax-raw.c	60;"	d	file:
+VGA6x11_IDX	tests/font.h	27;"	d
+VGA8x16_IDX	tests/font.h	25;"	d
+VGA8x8_IDX	tests/font.h	24;"	d
+V_FIELDS	plugins/cy8mrln-palmpre.c	35;"	d	file:
+XORMODE	tests/fbutils.h	22;"	d
+X_STEP	tests/ts_harvest.c	39;"	d	file:
+Y_STEP	tests/ts_harvest.c	40;"	d	file:
+_FBUTILS_H	tests/fbutils.h	14;"	d
+_TESTUTILS_H	tests/testutils.h	2;"	d
+_TSLIB_FILTER_H_	src/tslib-filter.h	2;"	d
+_TSLIB_H_	src/tslib.h	2;"	d
+_TSLIB_PRIVATE_H_	src/tslib-private.h	2;"	d
+_VIDEO_FONT_H	tests/font.h	12;"	d
+__setpixel	tests/fbutils.c	/^static inline void __setpixel (union multiptr loc, unsigned xormode, unsigned color)$/;"	f	file:
+__ts_attach	src/ts_attach.c	/^int __ts_attach(struct tsdev *ts, struct tslib_module_info *info)$/;"	f
+__ts_attach_raw	src/ts_attach.c	/^int __ts_attach_raw(struct tsdev *ts, struct tslib_module_info *info)$/;"	f
+__ts_galax_ops	plugins/galax-raw.c	/^static const struct tslib_ops __ts_galax_ops = {$/;"	v	typeref:struct:tslib_ops	file:
+__ts_input_ops	plugins/input-raw.c	/^static const struct tslib_ops __ts_input_ops = {$/;"	v	typeref:struct:tslib_ops	file:
+__ts_load_module	src/ts_load_module.c	/^static int __ts_load_module(struct tsdev *ts, const char *module, const char *params, int raw)$/;"	f	file:
+__ts_load_module_shared	src/ts_load_module.c	/^static struct tslib_module_info *__ts_load_module_shared(struct tsdev *ts, const char *module, const char *params)$/;"	f	file:
+__ts_load_module_static	src/ts_load_module.c	/^static struct tslib_module_info *__ts_load_module_static(struct tsdev *ts, const char *module, const char *params)$/;"	f	file:
+a	plugins/linear.c	/^	int	a[7];$/;"	m	struct:tslib_linear	file:
+a	tests/ts_calibrate.c	/^	int a[7];$/;"	m	struct:__anon1	file:
+ac_fn_c_check_func	configure	/^ac_fn_c_check_func ()$/;"	f
+ac_fn_c_check_header_compile	configure	/^ac_fn_c_check_header_compile ()$/;"	f
+ac_fn_c_check_header_mongrel	configure	/^ac_fn_c_check_header_mongrel ()$/;"	f
+ac_fn_c_check_type	configure	/^ac_fn_c_check_type ()$/;"	f
+ac_fn_c_try_compile	configure	/^ac_fn_c_try_compile ()$/;"	f
+ac_fn_c_try_cpp	configure	/^ac_fn_c_try_cpp ()$/;"	f
+ac_fn_c_try_link	configure	/^ac_fn_c_try_link ()$/;"	f
+ac_fn_c_try_run	configure	/^ac_fn_c_try_run ()$/;"	f
+arctic2	plugins/plugins.h	/^TSLIB_DECLARE_MODULE(arctic2);$/;"	v
+arctic2_mod_init	plugins/arctic2-raw.c	/^	TSLIB_MODULE_INIT(arctic2_mod_init);$/;"	v
+arctic2_mod_init	plugins/arctic2-raw.c	/^TSAPI struct tslib_module_info *arctic2_mod_init(struct tsdev *dev, const char *params)$/;"	f
+arctic2_ops	plugins/arctic2-raw.c	/^static const struct tslib_ops arctic2_ops =$/;"	v	typeref:struct:tslib_ops	file:
+arctic2_read	plugins/arctic2-raw.c	/^static int arctic2_read(struct tslib_module_info *inf, struct ts_sample *samp, int nr)$/;"	f	file:
+arctic2_ts_event	plugins/arctic2-raw.c	/^struct arctic2_ts_event { \/* Used in the IBM Arctic II *\/$/;"	s	file:
+as_fn_append	configure	/^  as_fn_append ()$/;"	f
+as_fn_arith	configure	/^  as_fn_arith ()$/;"	f
+as_fn_error	configure	/^as_fn_error ()$/;"	f
+as_fn_exit	configure	/^as_fn_exit ()$/;"	f
+as_fn_failure	configure	/^as_fn_failure () { as_fn_return 1; }$/;"	f
+as_fn_mkdir_p	configure	/^as_fn_mkdir_p ()$/;"	f
+as_fn_ret_failure	configure	/^as_fn_ret_failure () { return 1; }$/;"	f
+as_fn_ret_success	configure	/^as_fn_ret_success () { return 0; }$/;"	f
+as_fn_set_status	configure	/^as_fn_set_status ()$/;"	f
+as_fn_success	configure	/^as_fn_success () { as_fn_return 0; }$/;"	f
+as_fn_unset	configure	/^as_fn_unset ()$/;"	f
+average	plugins/dejitter.c	/^static void average (struct tslib_dejitter *djt, struct ts_sample *samp)$/;"	f	file:
+button_draw	tests/ts_test.c	/^static void button_draw (struct ts_button *button)$/;"	f	file:
+button_handle	tests/ts_test.c	/^static int button_handle (struct ts_button *button, struct ts_sample *samp)$/;"	f	file:
+button_palette	tests/ts_test.c	/^static int button_palette [6] =$/;"	v	file:
+buttons	tests/ts_test.c	/^static struct ts_button buttons [NR_BUTTONS];$/;"	v	typeref:struct:ts_button	file:
+bytes_per_pixel	tests/fbutils.c	/^static int bytes_per_pixel;$/;"	v	file:
+cal_res_x	plugins/linear.c	/^	unsigned int cal_res_x;$/;"	m	struct:tslib_linear	file:
+cal_res_y	plugins/linear.c	/^	unsigned int cal_res_y;$/;"	m	struct:tslib_linear	file:
+calibration	tests/ts_calibrate.c	/^} calibration;$/;"	t	typeref:struct:__anon1	file:
+check_fd	plugins/input-raw.c	/^static int check_fd(struct tslib_input *i)$/;"	f	file:
+clearbuf	tests/ts_calibrate.c	/^static void clearbuf(struct tsdev *ts)$/;"	f	file:
+close_framebuffer	tests/fbutils.c	/^void close_framebuffer(void)$/;"	f
+collie	plugins/plugins.h	/^TSLIB_DECLARE_MODULE(collie);$/;"	v
+collie_mod_init	plugins/collie-raw.c	/^	TSLIB_MODULE_INIT(collie_mod_init);$/;"	v
+collie_mod_init	plugins/collie-raw.c	/^TSAPI struct tslib_module_info *collie_mod_init(struct tsdev *dev, const char *params)$/;"	f
+collie_ops	plugins/collie-raw.c	/^static const struct tslib_ops collie_ops =$/;"	v	typeref:struct:tslib_ops	file:
+collie_read	plugins/collie-raw.c	/^static int collie_read(struct tslib_module_info *inf, struct ts_sample *samp, int nr)$/;"	f	file:
+collie_ts_event	plugins/collie-raw.c	/^struct collie_ts_event { \/* Used in the Sharp Zaurus SL-5000d and SL-5500 *\/$/;"	s	file:
+colormap	tests/fbutils.c	/^static unsigned colormap [256];$/;"	v	file:
+con_fd	tests/fbutils.c	/^static int con_fd, fb_fd, last_vt = -1;$/;"	v	file:
+consoledevice	tests/fbutils.c	/^static char *consoledevice = NULL;$/;"	v	file:
+container_of	plugins/cy8mrln-palmpre.c	57;"	d	file:
+corgi	plugins/plugins.h	/^TSLIB_DECLARE_MODULE(corgi);$/;"	v
+corgi_mod_init	plugins/corgi-raw.c	/^	TSLIB_MODULE_INIT(corgi_mod_init);$/;"	v
+corgi_mod_init	plugins/corgi-raw.c	/^TSAPI struct tslib_module_info *corgi_mod_init(struct tsdev *dev, const char *params)$/;"	f
+corgi_ops	plugins/corgi-raw.c	/^static const struct tslib_ops corgi_ops =$/;"	v	typeref:struct:tslib_ops	file:
+corgi_read	plugins/corgi-raw.c	/^static int corgi_read(struct tslib_module_info *inf, struct ts_sample *samp, int nr)$/;"	f	file:
+corgi_ts_event	plugins/corgi-raw.c	/^struct corgi_ts_event { \/* Used in the Sharp Zaurus SL-C700 *\/$/;"	s	file:
+countof	src/ts_load_module.c	78;"	d	file:
+current_p	plugins/galax-raw.c	/^ int current_p;$/;"	m	struct:tslib_galax	file:
+current_p	plugins/input-raw.c	/^	int	current_p;$/;"	m	struct:tslib_input	file:
+current_x	plugins/dmc-raw.c	/^	int	current_x;$/;"	m	struct:tslib_dmc	file:
+current_x	plugins/galax-raw.c	/^ int current_x;$/;"	m	struct:tslib_galax	file:
+current_x	plugins/input-raw.c	/^	int	current_x;$/;"	m	struct:tslib_input	file:
+current_y	plugins/dmc-raw.c	/^	int	current_y;$/;"	m	struct:tslib_dmc	file:
+current_y	plugins/galax-raw.c	/^ int current_y;$/;"	m	struct:tslib_galax	file:
+current_y	plugins/input-raw.c	/^	int	current_y;$/;"	m	struct:tslib_input	file:
+cy8mrln_palmpre	plugins/plugins.h	/^TSLIB_DECLARE_MODULE(cy8mrln_palmpre);$/;"	v
+cy8mrln_palmpre_fini	plugins/cy8mrln-palmpre.c	/^static int cy8mrln_palmpre_fini(struct tslib_module_info *info)$/;"	f	file:
+cy8mrln_palmpre_input	plugins/cy8mrln-palmpre.c	/^struct cy8mrln_palmpre_input$/;"	s	file:
+cy8mrln_palmpre_interpolate	plugins/cy8mrln-palmpre.c	/^static void cy8mrln_palmpre_interpolate(struct tslib_cy8mrln_palmpre* info, uint16_t field[H_FIELDS * V_FIELDS], int x, int y, struct ts_sample *out)$/;"	f	file:
+cy8mrln_palmpre_mod_init	plugins/cy8mrln-palmpre.c	/^	TSLIB_MODULE_INIT(cy8mrln_palmpre_mod_init);$/;"	v
+cy8mrln_palmpre_mod_init	plugins/cy8mrln-palmpre.c	/^TSAPI struct tslib_module_info *cy8mrln_palmpre_mod_init(struct tsdev *dev, const char *params)$/;"	f
+cy8mrln_palmpre_ops	plugins/cy8mrln-palmpre.c	/^static const struct tslib_ops cy8mrln_palmpre_ops = $/;"	v	typeref:struct:tslib_ops	file:
+cy8mrln_palmpre_read	plugins/cy8mrln-palmpre.c	/^static int cy8mrln_palmpre_read(struct tslib_module_info *info, struct ts_sample *samp, int nr)$/;"	f	file:
+cy8mrln_palmpre_set_gesture_height	plugins/cy8mrln-palmpre.c	/^static int cy8mrln_palmpre_set_gesture_height (struct tslib_cy8mrln_palmpre* info, int h)$/;"	f	file:
+cy8mrln_palmpre_set_noise	plugins/cy8mrln-palmpre.c	/^static int cy8mrln_palmpre_set_noise (struct tslib_cy8mrln_palmpre* info, int n)$/;"	f	file:
+cy8mrln_palmpre_set_pressure	plugins/cy8mrln-palmpre.c	/^static int cy8mrln_palmpre_set_pressure (struct tslib_cy8mrln_palmpre* info, int p)$/;"	f	file:
+cy8mrln_palmpre_set_scanrate	plugins/cy8mrln-palmpre.c	/^static int cy8mrln_palmpre_set_scanrate(struct tslib_cy8mrln_palmpre* info, int rate)$/;"	f	file:
+cy8mrln_palmpre_set_sensor_delta_x	plugins/cy8mrln-palmpre.c	/^static int cy8mrln_palmpre_set_sensor_delta_x (struct tslib_cy8mrln_palmpre* info, int n)$/;"	f	file:
+cy8mrln_palmpre_set_sensor_delta_y	plugins/cy8mrln-palmpre.c	/^static int cy8mrln_palmpre_set_sensor_delta_y (struct tslib_cy8mrln_palmpre* info, int n)$/;"	f	file:
+cy8mrln_palmpre_set_sensor_offset_x	plugins/cy8mrln-palmpre.c	/^static int cy8mrln_palmpre_set_sensor_offset_x (struct tslib_cy8mrln_palmpre* info, int n)$/;"	f	file:
+cy8mrln_palmpre_set_sensor_offset_y	plugins/cy8mrln-palmpre.c	/^static int cy8mrln_palmpre_set_sensor_offset_y (struct tslib_cy8mrln_palmpre* info, int n)$/;"	f	file:
+cy8mrln_palmpre_set_sleepmode	plugins/cy8mrln-palmpre.c	/^static int cy8mrln_palmpre_set_sleepmode(struct tslib_cy8mrln_palmpre* info, int mode)$/;"	f	file:
+cy8mrln_palmpre_set_timestamp_mode	plugins/cy8mrln-palmpre.c	/^static int cy8mrln_palmpre_set_timestamp_mode(struct tslib_cy8mrln_palmpre* info, int v)$/;"	f	file:
+cy8mrln_palmpre_set_verbose	plugins/cy8mrln-palmpre.c	/^static int cy8mrln_palmpre_set_verbose(struct tslib_cy8mrln_palmpre* info, int v)$/;"	f	file:
+cy8mrln_palmpre_set_wot_scanrate	plugins/cy8mrln-palmpre.c	/^static int cy8mrln_palmpre_set_wot_scanrate(struct tslib_cy8mrln_palmpre* info, int rate)$/;"	f	file:
+cy8mrln_palmpre_set_wot_threshold	plugins/cy8mrln-palmpre.c	/^static int cy8mrln_palmpre_set_wot_threshold(struct tslib_cy8mrln_palmpre* info, int v)$/;"	f	file:
+cy8mrln_palmpre_update_references	plugins/cy8mrln-palmpre.c	/^static int cy8mrln_palmpre_update_references(uint16_t references[H_FIELDS * V_FIELDS], uint16_t field[H_FIELDS * V_FIELDS])$/;"	f	file:
+cy8mrln_palmpre_vars	plugins/cy8mrln-palmpre.c	/^static const struct tslib_vars cy8mrln_palmpre_vars[] =$/;"	v	typeref:struct:tslib_vars	file:
+data	src/tslib-filter.h	/^	void *data;$/;"	m	struct:tslib_vars
+data	tests/font.h	/^    char *data;$/;"	m	struct:fbcon_font_desc
+defaultconsoledevice	tests/fbutils.c	/^static char *defaultconsoledevice = "\/dev\/tty";$/;"	v	file:
+defaultfbdevice	tests/fbutils.c	/^static char *defaultfbdevice = "\/dev\/fb0";$/;"	v	file:
+dejitter	plugins/plugins.h	/^TSLIB_DECLARE_MODULE(dejitter);$/;"	v
+dejitter_fini	plugins/dejitter.c	/^static int dejitter_fini(struct tslib_module_info *info)$/;"	f	file:
+dejitter_limit	plugins/dejitter.c	/^static int dejitter_limit(struct tslib_module_info *inf, char *str, void *data)$/;"	f	file:
+dejitter_mod_init	plugins/dejitter.c	/^	TSLIB_MODULE_INIT(dejitter_mod_init);$/;"	v
+dejitter_mod_init	plugins/dejitter.c	/^TSAPI struct tslib_module_info *dejitter_mod_init(struct tsdev *dev, const char *params)$/;"	f
+dejitter_ops	plugins/dejitter.c	/^static const struct tslib_ops dejitter_ops =$/;"	v	typeref:struct:tslib_ops	file:
+dejitter_read	plugins/dejitter.c	/^static int dejitter_read(struct tslib_module_info *info, struct ts_sample *samp, int nr)$/;"	f	file:
+dejitter_vars	plugins/dejitter.c	/^static const struct tslib_vars dejitter_vars[] =$/;"	v	typeref:struct:tslib_vars	file:
+delta	plugins/dejitter.c	/^	int delta;$/;"	m	struct:tslib_dejitter	file:
+delta	plugins/variance.c	/^	int delta;$/;"	m	struct:tslib_variance	file:
+dev	src/tslib-filter.h	/^	struct tsdev *dev;$/;"	m	struct:tslib_module_info	typeref:struct:tslib_module_info::tsdev
+discard_frames	plugins/cy8mrln-palmpre.c	/^	int 			discard_frames;$/;"	m	struct:tslib_cy8mrln_palmpre	file:
+discard_null_tokens	src/ts_config.c	/^void discard_null_tokens(char **p, char **tokPtr)$/;"	f
+dmc_init_device	plugins/dmc-raw.c	/^int dmc_init_device(struct tsdev *dev)$/;"	f
+dmc_ops	plugins/dmc-raw.c	/^static const struct tslib_ops dmc_ops =$/;"	v	typeref:struct:tslib_ops	file:
+dmc_read	plugins/dmc-raw.c	/^static int dmc_read(struct tslib_module_info *inf, struct ts_sample *samp, int nr)$/;"	f	file:
+down	plugins/dejitter.c	/^	int down;$/;"	m	struct:tslib_dejitter	file:
+fb_fd	tests/fbutils.c	/^static int con_fd, fb_fd, last_vt = -1;$/;"	v	file:
+fb_fd	tests/fbutils.c	/^static int fb_fd=0;$/;"	v	file:
+fbcon_font_desc	tests/font.h	/^struct fbcon_font_desc {$/;"	s
+fbdevice	tests/fbutils.c	/^static char *fbdevice = NULL;$/;"	v	file:
+fbuffer	tests/fbutils.c	/^static unsigned char *fbuffer;$/;"	v	file:
+fd	src/tslib-private.h	/^	int fd;$/;"	m	struct:tsdev
+ffff	plugins/cy8mrln-palmpre.c	/^	uint16_t	ffff;			\/* always 0xffff *\/$/;"	m	struct:cy8mrln_palmpre_input	file:
+field	plugins/cy8mrln-palmpre.c	/^	uint16_t	field[H_FIELDS * V_FIELDS];$/;"	m	struct:cy8mrln_palmpre_input	file:
+field_nr	plugins/cy8mrln-palmpre.c	55;"	d	file:
+fillrect	tests/fbutils.c	/^void fillrect (int x1, int y1, int x2, int y2, unsigned colidx)$/;"	f
+find_stack_direction	configure	/^find_stack_direction ()$/;"	f
+fini	src/tslib-filter.h	/^	int (*fini)(struct tslib_module_info *inf);$/;"	m	struct:tslib_ops
+fix	tests/fbutils.c	/^static struct fb_fix_screeninfo fix;$/;"	v	typeref:struct:fb_fix_screeninfo	file:
+flags	plugins/arctic2-raw.c	/^	int flags;$/;"	m	struct:arctic2_ts_event	file:
+flags	plugins/variance.c	/^	unsigned int flags;$/;"	m	struct:tslib_variance	file:
+flags	tests/ts_test.c	/^	int flags;$/;"	m	struct:ts_button	file:
+fn	src/tslib-filter.h	/^	int (*fn)(struct tslib_module_info *inf, char *str, void *data);$/;"	m	struct:tslib_vars
+font_vga_8x16	tests/font_8x16.c	/^struct fbcon_font_desc font_vga_8x16 = {$/;"	v	typeref:struct:fbcon_font_desc
+font_vga_8x8	tests/font_8x8.c	/^struct fbcon_font_desc font_vga_8x8 = {$/;"	v	typeref:struct:fbcon_font_desc
+fontdata_8x16	tests/font_8x16.c	/^static unsigned char fontdata_8x16[FONTDATAMAX] = {$/;"	v	file:
+fontdata_8x8	tests/font_8x8.c	/^static unsigned char fontdata_8x8[FONTDATAMAX] = {$/;"	v	file:
+func_append	configure	/^func_append ()\\$/;"	f
+func_append	ltmain.sh	/^func_append ()$/;"	f
+func_append_quoted	configure	/^func_append_quoted ()\\$/;"	f
+func_append_quoted	ltmain.sh	/^func_append_quoted ()$/;"	f
+func_arith	configure	/^func_arith ()\\$/;"	f
+func_arith	ltmain.sh	/^func_arith ()$/;"	f
+func_basename	configure	/^func_basename ()\\$/;"	f
+func_basename	ltmain.sh	/^func_basename ()$/;"	f
+func_check_version_match	ltmain.sh	/^func_check_version_match ()$/;"	f
+func_config	ltmain.sh	/^func_config ()$/;"	f
+func_convert_core_file_wine_to_w32	ltmain.sh	/^func_convert_core_file_wine_to_w32 ()$/;"	f
+func_convert_core_msys_to_w32	ltmain.sh	/^func_convert_core_msys_to_w32 ()$/;"	f
+func_convert_core_path_wine_to_w32	ltmain.sh	/^func_convert_core_path_wine_to_w32 ()$/;"	f
+func_convert_file_check	ltmain.sh	/^func_convert_file_check ()$/;"	f
+func_convert_file_cygwin_to_w32	ltmain.sh	/^func_convert_file_cygwin_to_w32 ()$/;"	f
+func_convert_file_msys_to_cygwin	ltmain.sh	/^func_convert_file_msys_to_cygwin ()$/;"	f
+func_convert_file_msys_to_w32	ltmain.sh	/^func_convert_file_msys_to_w32 ()$/;"	f
+func_convert_file_nix_to_cygwin	ltmain.sh	/^func_convert_file_nix_to_cygwin ()$/;"	f
+func_convert_file_nix_to_w32	ltmain.sh	/^func_convert_file_nix_to_w32 ()$/;"	f
+func_convert_file_noop	ltmain.sh	/^func_convert_file_noop ()$/;"	f
+func_convert_path_check	ltmain.sh	/^func_convert_path_check ()$/;"	f
+func_convert_path_cygwin_to_w32	ltmain.sh	/^func_convert_path_cygwin_to_w32 ()$/;"	f
+func_convert_path_front_back_pathsep	ltmain.sh	/^func_convert_path_front_back_pathsep ()$/;"	f
+func_convert_path_msys_to_cygwin	ltmain.sh	/^func_convert_path_msys_to_cygwin ()$/;"	f
+func_convert_path_msys_to_w32	ltmain.sh	/^func_convert_path_msys_to_w32 ()$/;"	f
+func_convert_path_nix_to_cygwin	ltmain.sh	/^func_convert_path_nix_to_cygwin ()$/;"	f
+func_convert_path_nix_to_w32	ltmain.sh	/^func_convert_path_nix_to_w32 ()$/;"	f
+func_convert_path_noop	ltmain.sh	/^func_convert_path_noop ()$/;"	f
+func_cygming_dll_for_implib	ltmain.sh	/^func_cygming_dll_for_implib ()$/;"	f
+func_cygming_dll_for_implib_fallback	ltmain.sh	/^func_cygming_dll_for_implib_fallback ()$/;"	f
+func_cygming_dll_for_implib_fallback_core	ltmain.sh	/^func_cygming_dll_for_implib_fallback_core ()$/;"	f
+func_cygming_gnu_implib_p	ltmain.sh	/^func_cygming_gnu_implib_p ()$/;"	f
+func_cygming_ms_implib_p	ltmain.sh	/^func_cygming_ms_implib_p ()$/;"	f
+func_cygpath	ltmain.sh	/^func_cygpath ()$/;"	f
+func_dirname	configure	/^func_dirname ()\\$/;"	f
+func_dirname	ltmain.sh	/^func_dirname ()$/;"	f
+func_dirname_and_basename	configure	/^func_dirname_and_basename ()\\$/;"	f
+func_dirname_and_basename	ltmain.sh	/^func_dirname_and_basename ()$/;"	f
+func_echo	ltmain.sh	/^func_echo ()$/;"	f
+func_echo_all	configure	/^func_echo_all ()$/;"	f
+func_echo_all	ltmain.sh	/^func_echo_all ()$/;"	f
+func_emit_cwrapperexe_src	ltmain.sh	/^func_emit_cwrapperexe_src ()$/;"	f
+func_emit_wrapper	ltmain.sh	/^func_emit_wrapper ()$/;"	f
+func_enable_tag	ltmain.sh	/^func_enable_tag ()$/;"	f
+func_error	ltmain.sh	/^func_error ()$/;"	f
+func_exec_program	ltmain.sh	/^func_exec_program ()$/;"	f
+func_exec_program_core	ltmain.sh	/^func_exec_program_core ()$/;"	f
+func_execute_cmds	ltmain.sh	/^func_execute_cmds ()$/;"	f
+func_extract_an_archive	ltmain.sh	/^func_extract_an_archive ()$/;"	f
+func_extract_archives	ltmain.sh	/^func_extract_archives ()$/;"	f
+func_fallback_echo	configure	/^  func_fallback_echo ()$/;"	f
+func_fallback_echo	configure	/^func_fallback_echo ()$/;"	f
+func_fallback_echo	ltmain.sh	/^func_fallback_echo ()$/;"	f
+func_fatal_configuration	ltmain.sh	/^func_fatal_configuration ()$/;"	f
+func_fatal_error	ltmain.sh	/^func_fatal_error ()$/;"	f
+func_fatal_help	ltmain.sh	/^func_fatal_help ()$/;"	f
+func_features	ltmain.sh	/^func_features ()$/;"	f
+func_generate_dlsyms	ltmain.sh	/^func_generate_dlsyms ()$/;"	f
+func_grep	ltmain.sh	/^func_grep ()$/;"	f
+func_help	ltmain.sh	/^func_help ()$/;"	f
+func_infer_tag	ltmain.sh	/^func_infer_tag ()$/;"	f
+func_init_to_host_path_cmd	ltmain.sh	/^func_init_to_host_path_cmd ()$/;"	f
+func_lalib_p	ltmain.sh	/^func_lalib_p ()$/;"	f
+func_lalib_unsafe_p	ltmain.sh	/^func_lalib_unsafe_p ()$/;"	f
+func_len	configure	/^func_len ()\\$/;"	f
+func_len	ltmain.sh	/^func_len ()$/;"	f
+func_lo2o	configure	/^func_lo2o ()\\$/;"	f
+func_lo2o	ltmain.sh	/^func_lo2o ()$/;"	f
+func_lt_dump_args	ltmain.sh	/^func_lt_dump_args ()$/;"	f
+func_ltwrapper_executable_p	ltmain.sh	/^func_ltwrapper_executable_p ()$/;"	f
+func_ltwrapper_p	ltmain.sh	/^func_ltwrapper_p ()$/;"	f
+func_ltwrapper_script_p	ltmain.sh	/^func_ltwrapper_script_p ()$/;"	f
+func_ltwrapper_scriptname	ltmain.sh	/^func_ltwrapper_scriptname ()$/;"	f
+func_missing_arg	ltmain.sh	/^func_missing_arg ()$/;"	f
+func_mkdir_p	ltmain.sh	/^func_mkdir_p ()$/;"	f
+func_mktempdir	ltmain.sh	/^func_mktempdir ()$/;"	f
+func_mode_compile	ltmain.sh	/^func_mode_compile ()$/;"	f
+func_mode_execute	ltmain.sh	/^func_mode_execute ()$/;"	f
+func_mode_finish	ltmain.sh	/^func_mode_finish ()$/;"	f
+func_mode_help	ltmain.sh	/^func_mode_help ()$/;"	f
+func_mode_install	ltmain.sh	/^func_mode_install ()$/;"	f
+func_mode_link	ltmain.sh	/^func_mode_link ()$/;"	f
+func_mode_uninstall	ltmain.sh	/^func_mode_uninstall ()$/;"	f
+func_normal_abspath	ltmain.sh	/^func_normal_abspath ()$/;"	f
+func_parse_lt_options	ltmain.sh	/^func_parse_lt_options ()$/;"	f
+func_quote_for_eval	ltmain.sh	/^func_quote_for_eval ()$/;"	f
+func_quote_for_expand	ltmain.sh	/^func_quote_for_expand ()$/;"	f
+func_relative_path	ltmain.sh	/^func_relative_path ()$/;"	f
+func_replace_sysroot	ltmain.sh	/^func_replace_sysroot ()$/;"	f
+func_resolve_sysroot	ltmain.sh	/^func_resolve_sysroot ()$/;"	f
+func_show_eval	ltmain.sh	/^func_show_eval ()$/;"	f
+func_show_eval_locale	ltmain.sh	/^func_show_eval_locale ()$/;"	f
+func_source	ltmain.sh	/^func_source ()$/;"	f
+func_split_long_opt	configure	/^func_split_long_opt ()\\$/;"	f
+func_split_long_opt	ltmain.sh	/^func_split_long_opt ()$/;"	f
+func_split_short_opt	configure	/^func_split_short_opt ()\\$/;"	f
+func_split_short_opt	ltmain.sh	/^func_split_short_opt ()$/;"	f
+func_stripname	configure	/^func_stripname ()\\$/;"	f
+func_stripname	ltmain.sh	/^func_stripname ()$/;"	f
+func_to_host_file	ltmain.sh	/^func_to_host_file ()$/;"	f
+func_to_host_path	ltmain.sh	/^func_to_host_path ()$/;"	f
+func_to_tool_file	ltmain.sh	/^func_to_tool_file ()$/;"	f
+func_tr_sh	ltmain.sh	/^func_tr_sh ()$/;"	f
+func_usage	ltmain.sh	/^func_usage ()$/;"	f
+func_verbose	ltmain.sh	/^func_verbose ()$/;"	f
+func_version	ltmain.sh	/^func_version ()$/;"	f
+func_warning	ltmain.sh	/^func_warning ()$/;"	f
+func_win32_import_lib_p	ltmain.sh	/^func_win32_import_lib_p ()$/;"	f
+func_win32_libid	ltmain.sh	/^func_win32_libid ()$/;"	f
+func_write_libtool_object	ltmain.sh	/^func_write_libtool_object ()$/;"	f
+func_xform	configure	/^func_xform ()\\$/;"	f
+func_xform	ltmain.sh	/^func_xform ()$/;"	f
+galax_mod_init	plugins/galax-raw.c	/^	TSLIB_MODULE_INIT(galax_mod_init);$/;"	v
+galax_mod_init	plugins/galax-raw.c	/^TSAPI struct tslib_module_info *galax_mod_init (struct tsdev *dev, const char *params)$/;"	f
+gesture_height	plugins/cy8mrln-palmpre.c	/^	int				gesture_height;$/;"	m	struct:tslib_cy8mrln_palmpre	file:
+get_sample	tests/ts_calibrate.c	/^static void get_sample (struct tsdev *ts, calibration *cal,$/;"	f	file:
+getxy	tests/testutils.c	/^void getxy(struct tsdev *ts, int *x, int *y)$/;"	f
+grab_events	plugins/galax-raw.c	/^ int grab_events;$/;"	m	struct:tslib_galax	file:
+grab_events	plugins/input-raw.c	/^	int	grab_events;$/;"	m	struct:tslib_input	file:
+h	tests/ts_test.c	/^	int x, y, w, h;$/;"	m	struct:ts_button	file:
+h3600	plugins/plugins.h	/^TSLIB_DECLARE_MODULE(h3600);$/;"	v
+h3600_mod_init	plugins/h3600-raw.c	/^	TSLIB_MODULE_INIT(h3600_mod_init);$/;"	v
+h3600_mod_init	plugins/h3600-raw.c	/^TSAPI struct tslib_module_info *h3600_mod_init(struct tsdev *dev, const char *params)$/;"	f
+h3600_ops	plugins/h3600-raw.c	/^static const struct tslib_ops h3600_ops =$/;"	v	typeref:struct:tslib_ops	file:
+h3600_read	plugins/h3600-raw.c	/^static int h3600_read(struct tslib_module_info *inf, struct ts_sample *samp, int nr)$/;"	f	file:
+h3600_ts_event	plugins/h3600-raw.c	/^struct h3600_ts_event { \/* Used in the Compaq IPAQ *\/$/;"	s	file:
+handle	src/tslib-filter.h	/^	void *handle;			\/* dl handle		*\/$/;"	m	struct:tslib_module_info
+head	plugins/dejitter.c	/^	int head;$/;"	m	struct:tslib_dejitter	file:
+header	plugins/mk712-raw.c	/^	unsigned int header;$/;"	m	struct:mk712_ts_event	file:
+height	tests/font.h	/^    int width, height;$/;"	m	struct:fbcon_font_desc
+hist	plugins/dejitter.c	/^	struct ts_hist hist[NR_SAMPHISTLEN];$/;"	m	struct:tslib_dejitter	typeref:struct:tslib_dejitter::ts_hist	file:
+idx	tests/font.h	/^    int idx;$/;"	m	struct:fbcon_font_desc
+input	plugins/plugins.h	/^TSLIB_DECLARE_MODULE(input);$/;"	v
+input_mod_init	plugins/input-raw.c	/^	TSLIB_MODULE_INIT(input_mod_init);$/;"	v
+input_mod_init	plugins/input-raw.c	/^TSAPI struct tslib_module_info *input_mod_init(struct tsdev *dev, const char *params)$/;"	f
+last	plugins/variance.c	/^        struct ts_sample last;$/;"	m	struct:tslib_variance	typeref:struct:tslib_variance::ts_sample	file:
+last_n_valid_samples	plugins/cy8mrln-palmpre.c	/^	int				last_n_valid_samples;$/;"	m	struct:tslib_cy8mrln_palmpre	file:
+last_valid_samples	plugins/cy8mrln-palmpre.c	/^	struct ts_sample*		last_valid_samples;$/;"	m	struct:tslib_cy8mrln_palmpre	typeref:struct:tslib_cy8mrln_palmpre::ts_sample	file:
+last_vt	tests/fbutils.c	/^static int con_fd, fb_fd, last_vt = -1;$/;"	v	file:
+line	tests/fbutils.c	/^void line (int x1, int y1, int x2, int y2, unsigned colidx)$/;"	f
+line_addr	tests/fbutils.c	/^static unsigned char **line_addr;$/;"	v	file:
+linear	plugins/plugins.h	/^TSLIB_DECLARE_MODULE(linear);$/;"	v
+linear_fini	plugins/linear.c	/^static int linear_fini(struct tslib_module_info *info)$/;"	f	file:
+linear_h2200	plugins/plugins.h	/^TSLIB_DECLARE_MODULE(linear_h2200);$/;"	v
+linear_h2200_fini	plugins/linear-h2200.c	/^static int linear_h2200_fini(struct tslib_module_info *info)$/;"	f	file:
+linear_h2200_mod_init	plugins/linear-h2200.c	/^	TSLIB_MODULE_INIT(linear_h2200_mod_init);$/;"	v
+linear_h2200_mod_init	plugins/linear-h2200.c	/^TSAPI struct tslib_module_info *linear_h2200_mod_init(struct tsdev *dev, const char *params)$/;"	f
+linear_h2200_ops	plugins/linear-h2200.c	/^static const struct tslib_ops linear_h2200_ops =$/;"	v	typeref:struct:tslib_ops	file:
+linear_h2200_read	plugins/linear-h2200.c	/^linear_h2200_read(struct tslib_module_info *info, struct ts_sample *samp, int nr)$/;"	f	file:
+linear_mod_init	plugins/linear.c	/^	TSLIB_MODULE_INIT(linear_mod_init);$/;"	v
+linear_mod_init	plugins/linear.c	/^TSAPI struct tslib_module_info *linear_mod_init(struct tsdev *dev, const char *params)$/;"	f
+linear_ops	plugins/linear.c	/^static const struct tslib_ops linear_ops =$/;"	v	typeref:struct:tslib_ops	file:
+linear_p_div	plugins/linear.c	/^static int linear_p_div(struct tslib_module_info *inf, char *str, void *data)$/;"	f	file:
+linear_p_mult	plugins/linear.c	/^static int linear_p_mult(struct tslib_module_info *inf, char *str, void *data)$/;"	f	file:
+linear_p_offset	plugins/linear.c	/^static int linear_p_offset(struct tslib_module_info *inf, char *str, void *data)$/;"	f	file:
+linear_read	plugins/linear.c	/^linear_read(struct tslib_module_info *info, struct ts_sample *samp, int nr)$/;"	f	file:
+linear_vars	plugins/linear.c	/^static const struct tslib_vars linear_vars[] =$/;"	v	typeref:struct:tslib_vars	file:
+linear_xyswap	plugins/linear.c	/^static int linear_xyswap(struct tslib_module_info *inf, char *str, void *data)$/;"	f	file:
+list	src/tslib-private.h	/^	struct tslib_module_info *list;$/;"	m	struct:tsdev	typeref:struct:tsdev::tslib_module_info
+list_raw	src/tslib-private.h	/^	struct tslib_module_info *list_raw; \/* points to position in 'list' where raw reads$/;"	m	struct:tsdev	typeref:struct:tsdev::tslib_module_info
+main	config.guess	/^		main()$/;"	f
+main	config.guess	/^	main ()$/;"	f
+main	config.guess	/^main ()$/;"	f
+main	tests/ts_calibrate.c	/^int main()$/;"	f
+main	tests/ts_harvest.c	/^int main()$/;"	f
+main	tests/ts_print.c	/^int main()$/;"	f
+main	tests/ts_print_raw.c	/^int main()$/;"	f
+main	tests/ts_test.c	/^int main()$/;"	f
+millisecs	plugins/arctic2-raw.c	/^	int millisecs;$/;"	m	struct:arctic2_ts_event	file:
+millisecs	plugins/collie-raw.c	/^	long long millisecs;$/;"	m	struct:collie_ts_event	file:
+millisecs	plugins/corgi-raw.c	/^	short millisecs;$/;"	m	struct:corgi_ts_event	file:
+mk712	plugins/plugins.h	/^TSLIB_DECLARE_MODULE(mk712);$/;"	v
+mk712_mod_init	plugins/mk712-raw.c	/^	TSLIB_MODULE_INIT(mk712_mod_init);$/;"	v
+mk712_mod_init	plugins/mk712-raw.c	/^TSAPI struct tslib_module_info *mk712_mod_init(struct tsdev *dev, const char *params)$/;"	f
+mk712_ops	plugins/mk712-raw.c	/^static const struct tslib_ops mk712_ops =$/;"	v	typeref:struct:tslib_ops	file:
+mk712_read	plugins/mk712-raw.c	/^static int mk712_read(struct tslib_module_info *inf, struct ts_sample *samp, int nr)$/;"	f	file:
+mk712_ts_event	plugins/mk712-raw.c	/^struct mk712_ts_event { \/* Used in the Hitachi Webpad *\/$/;"	s	file:
+mod_init	plugins/dmc-raw.c	/^TSAPI struct tslib_module_info *mod_init(struct tsdev *dev, const char *params)$/;"	f
+mod_init	plugins/touchkit-raw.c	/^TSAPI struct tslib_module_info *mod_init(struct tsdev *dev, const char *params)$/;"	f
+mod_init	src/ts_load_module.c	/^	tslib_module_init mod_init;$/;"	m	struct:__anon2	file:
+model_version	plugins/galax-raw.c	/^ int model_version;$/;"	m	struct:tslib_galax	file:
+module	plugins/cy8mrln-palmpre.c	/^	struct tslib_module_info	module;$/;"	m	struct:tslib_cy8mrln_palmpre	typeref:struct:tslib_cy8mrln_palmpre::tslib_module_info	file:
+module	plugins/dejitter.c	/^	struct tslib_module_info module;$/;"	m	struct:tslib_dejitter	typeref:struct:tslib_dejitter::tslib_module_info	file:
+module	plugins/dmc-raw.c	/^	struct tslib_module_info module;$/;"	m	struct:tslib_dmc	typeref:struct:tslib_dmc::tslib_module_info	file:
+module	plugins/galax-raw.c	/^ struct tslib_module_info module;$/;"	m	struct:tslib_galax	typeref:struct:tslib_galax::tslib_module_info	file:
+module	plugins/input-raw.c	/^	struct tslib_module_info module;$/;"	m	struct:tslib_input	typeref:struct:tslib_input::tslib_module_info	file:
+module	plugins/linear-h2200.c	/^        struct tslib_module_info module;$/;"	m	struct:tslib_linear_h2200	typeref:struct:tslib_linear_h2200::tslib_module_info	file:
+module	plugins/linear.c	/^	struct tslib_module_info module;$/;"	m	struct:tslib_linear	typeref:struct:tslib_linear::tslib_module_info	file:
+module	plugins/pthres.c	/^	struct tslib_module_info module;$/;"	m	struct:tslib_pthres	typeref:struct:tslib_pthres::tslib_module_info	file:
+module	plugins/variance.c	/^	struct tslib_module_info module;$/;"	m	struct:tslib_variance	typeref:struct:tslib_variance::tslib_module_info	file:
+multiptr	tests/fbutils.c	/^union multiptr {$/;"	u	file:
+n_r	plugins/cy8mrln-palmpre.c	/^	uint16_t	n_r;$/;"	m	struct:cy8mrln_palmpre_input	file:
+name	src/ts_load_module.c	/^	const char *name;$/;"	m	struct:__anon2	file:
+name	src/tslib-filter.h	/^	const char *name;$/;"	m	struct:tslib_vars
+name	tests/font.h	/^    char *name;$/;"	m	struct:fbcon_font_desc
+next	src/tslib-filter.h	/^	struct tslib_module_info *next;	\/* next module in chain	*\/$/;"	m	struct:tslib_module_info	typeref:struct:tslib_module_info::tslib_module_info
+noise	plugins/cy8mrln-palmpre.c	/^	int				noise;$/;"	m	struct:tslib_cy8mrln_palmpre	file:
+noise	plugins/variance.c	/^        struct ts_sample noise;$/;"	m	struct:tslib_variance	typeref:struct:tslib_variance::ts_sample	file:
+nr	plugins/dejitter.c	/^	int nr;$/;"	m	struct:tslib_dejitter	file:
+null	plugins/cy8mrln-palmpre.c	/^	uint8_t		null;		   \/* NULL byte *\/$/;"	m	struct:cy8mrln_palmpre_input	file:
+old_scanrate	plugins/cy8mrln-palmpre.c	/^	int 			old_scanrate;$/;"	m	struct:tslib_cy8mrln_palmpre	file:
+open_framebuffer	tests/fbutils.c	/^int open_framebuffer(void)$/;"	f
+ops	src/tslib-filter.h	/^	const struct tslib_ops *ops;$/;"	m	struct:tslib_module_info	typeref:struct:tslib_module_info::tslib_ops
+p	plugins/dejitter.c	/^	unsigned int p;$/;"	m	struct:ts_hist	file:
+p16	tests/fbutils.c	/^	unsigned short *p16;$/;"	m	union:multiptr	file:
+p32	tests/fbutils.c	/^	unsigned long *p32;$/;"	m	union:multiptr	file:
+p8	tests/fbutils.c	/^	unsigned char *p8;$/;"	m	union:multiptr	file:
+p_div	plugins/linear.c	/^	int	p_div;$/;"	m	struct:tslib_linear	file:
+p_mult	plugins/linear.c	/^	int	p_mult;$/;"	m	struct:tslib_linear	file:
+p_offset	plugins/linear.c	/^	int	p_offset;$/;"	m	struct:tslib_linear	file:
+pad	plugins/h3600-raw.c	/^	unsigned short pad;$/;"	m	struct:h3600_ts_event	file:
+pad	plugins/ucb1x00-raw.c	/^	unsigned short pad;$/;"	m	struct:ucb1x00_ts_event	file:
+palette	tests/ts_calibrate.c	/^static int palette [] =$/;"	v	file:
+palette	tests/ts_harvest.c	/^static int palette [] =$/;"	v	file:
+palette	tests/ts_test.c	/^static int palette [] =$/;"	v	file:
+parse_gesture_height	plugins/cy8mrln-palmpre.c	/^static int parse_gesture_height(struct tslib_module_info *info, char *str, void *data)$/;"	f	file:
+parse_noise	plugins/cy8mrln-palmpre.c	/^static int parse_noise(struct tslib_module_info *info, char *str, void *data)$/;"	f	file:
+parse_pressure	plugins/cy8mrln-palmpre.c	/^static int parse_pressure(struct tslib_module_info *info, char *str, void *data)$/;"	f	file:
+parse_raw_grab	plugins/galax-raw.c	/^static int parse_raw_grab (struct tslib_module_info *inf, char *str, void *data)$/;"	f	file:
+parse_raw_grab	plugins/input-raw.c	/^static int parse_raw_grab(struct tslib_module_info *inf, char *str, void *data)$/;"	f	file:
+parse_scanrate	plugins/cy8mrln-palmpre.c	/^static int parse_scanrate(struct tslib_module_info *info, char *str, void *data)$/;"	f	file:
+parse_sensor_delta_x	plugins/cy8mrln-palmpre.c	/^static int parse_sensor_delta_x(struct tslib_module_info *info, char *str, void *data)$/;"	f	file:
+parse_sensor_delta_y	plugins/cy8mrln-palmpre.c	/^static int parse_sensor_delta_y(struct tslib_module_info *info, char *str, void *data)$/;"	f	file:
+parse_sensor_offset_x	plugins/cy8mrln-palmpre.c	/^static int parse_sensor_offset_x(struct tslib_module_info *info, char *str, void *data)$/;"	f	file:
+parse_sensor_offset_y	plugins/cy8mrln-palmpre.c	/^static int parse_sensor_offset_y(struct tslib_module_info *info, char *str, void *data)$/;"	f	file:
+parse_sleepmode	plugins/cy8mrln-palmpre.c	/^static int parse_sleepmode(struct tslib_module_info *info, char *str, void *data)$/;"	f	file:
+parse_timestamp_mode	plugins/cy8mrln-palmpre.c	/^static int parse_timestamp_mode(struct tslib_module_info *info, char *str, void *data)$/;"	f	file:
+parse_verbose	plugins/cy8mrln-palmpre.c	/^static int parse_verbose(struct tslib_module_info *info, char *str, void *data)$/;"	f	file:
+parse_wot_scanrate	plugins/cy8mrln-palmpre.c	/^static int parse_wot_scanrate(struct tslib_module_info *info, char *str, void *data)$/;"	f	file:
+parse_wot_threshold	plugins/cy8mrln-palmpre.c	/^static int parse_wot_threshold(struct tslib_module_info *info, char *str, void *data)$/;"	f	file:
+perform_calibration	tests/ts_calibrate.c	/^int perform_calibration(calibration *cal) {$/;"	f
+pixel	tests/fbutils.c	/^void pixel (int x, int y, unsigned colidx)$/;"	f
+pmax	plugins/pthres.c	/^	unsigned int	pmax;$/;"	m	struct:tslib_pthres	file:
+pmin	plugins/pthres.c	/^	unsigned int	pmin;$/;"	m	struct:tslib_pthres	file:
+pref	tests/font.h	/^    int pref;$/;"	m	struct:fbcon_font_desc
+pressure	plugins/arctic2-raw.c	/^	signed short pressure;$/;"	m	struct:arctic2_ts_event	file:
+pressure	plugins/collie-raw.c	/^	long pressure;$/;"	m	struct:collie_ts_event	file:
+pressure	plugins/corgi-raw.c	/^	short pressure;$/;"	m	struct:corgi_ts_event	file:
+pressure	plugins/cy8mrln-palmpre.c	/^	int				pressure;$/;"	m	struct:tslib_cy8mrln_palmpre	file:
+pressure	plugins/h3600-raw.c	/^	unsigned short pressure;$/;"	m	struct:h3600_ts_event	file:
+pressure	plugins/ucb1x00-raw.c	/^	unsigned short pressure;$/;"	m	struct:ucb1x00_ts_event	file:
+pressure	src/tslib.h	/^	unsigned int	pressure;$/;"	m	struct:ts_sample
+prototypes	configure	/^   function prototypes and stuff, but not '\\xHH' hex character constants.$/;"	f
+pthres	plugins/plugins.h	/^TSLIB_DECLARE_MODULE(pthres);$/;"	v
+pthres_fini	plugins/pthres.c	/^static int pthres_fini(struct tslib_module_info *info)$/;"	f	file:
+pthres_mod_init	plugins/pthres.c	/^	TSLIB_MODULE_INIT(pthres_mod_init);$/;"	v
+pthres_mod_init	plugins/pthres.c	/^TSAPI struct tslib_module_info *pthres_mod_init(struct tsdev *dev, const char *params)$/;"	f
+pthres_ops	plugins/pthres.c	/^static const struct tslib_ops pthres_ops =$/;"	v	typeref:struct:tslib_ops	file:
+pthres_read	plugins/pthres.c	/^pthres_read(struct tslib_module_info *info, struct ts_sample *samp, int nr)$/;"	f	file:
+pthres_vars	plugins/pthres.c	/^static const struct tslib_vars pthres_vars[] =$/;"	v	typeref:struct:tslib_vars	file:
+put_char	tests/fbutils.c	/^void put_char(int x, int y, int c, int colidx)$/;"	f
+put_cross	tests/fbutils.c	/^void put_cross(int x, int y, unsigned colidx)$/;"	f
+put_string	tests/fbutils.c	/^void put_string(int x, int y, char *s, unsigned colidx)$/;"	f
+put_string_center	tests/fbutils.c	/^void put_string_center(int x, int y, char *s, unsigned colidx)$/;"	f
+raw_vars	plugins/galax-raw.c	/^static const struct tslib_vars raw_vars[] =$/;"	v	typeref:struct:tslib_vars	file:
+raw_vars	plugins/input-raw.c	/^static const struct tslib_vars raw_vars[] =$/;"	v	typeref:struct:tslib_vars	file:
+read	src/tslib-filter.h	/^	int (*read)(struct tslib_module_info *inf, struct ts_sample *samp, int nr);$/;"	m	struct:tslib_ops
+rect	tests/fbutils.c	/^void rect (int x1, int y1, int x2, int y2, unsigned colidx)$/;"	f
+references	plugins/cy8mrln-palmpre.c	/^	uint16_t			references[H_FIELDS * V_FIELDS];$/;"	m	struct:tslib_cy8mrln_palmpre	file:
+refresh_screen	tests/ts_harvest.c	/^static void refresh_screen ()$/;"	f	file:
+refresh_screen	tests/ts_test.c	/^static void refresh_screen ()$/;"	f	file:
+res_x	src/tslib-private.h	/^	unsigned int res_x;$/;"	m	struct:tsdev
+res_y	src/tslib-private.h	/^	unsigned int res_y;$/;"	m	struct:tsdev
+reserved	plugins/mk712-raw.c	/^	unsigned int reserved;$/;"	m	struct:mk712_ts_event	file:
+rotation	src/tslib-private.h	/^	int rotation;$/;"	m	struct:tsdev
+s_holder	src/ts_parse_vars.c	/^char s_holder[BUF_SIZE];$/;"	v
+sane_fd	plugins/dmc-raw.c	/^	int	sane_fd;$/;"	m	struct:tslib_dmc	file:
+sane_fd	plugins/galax-raw.c	/^ int sane_fd; $/;"	m	struct:tslib_galax	file:
+sane_fd	plugins/input-raw.c	/^	int	sane_fd;$/;"	m	struct:tslib_input	file:
+scanrate	plugins/cy8mrln-palmpre.c	/^	int				scanrate;$/;"	m	struct:tslib_cy8mrln_palmpre	file:
+sensor_delta_x	plugins/cy8mrln-palmpre.c	/^	int				sensor_delta_x;$/;"	m	struct:tslib_cy8mrln_palmpre	file:
+sensor_delta_y	plugins/cy8mrln-palmpre.c	/^	int				sensor_delta_y;$/;"	m	struct:tslib_cy8mrln_palmpre	file:
+sensor_offset_x	plugins/cy8mrln-palmpre.c	/^	int				sensor_offset_x;$/;"	m	struct:tslib_cy8mrln_palmpre	file:
+sensor_offset_y	plugins/cy8mrln-palmpre.c	/^	int				sensor_offset_y;$/;"	m	struct:tslib_cy8mrln_palmpre	file:
+seq_nr0	plugins/cy8mrln-palmpre.c	/^	uint8_t		seq_nr0;		\/* incremented [0:scanrate] *\/$/;"	m	struct:cy8mrln_palmpre_input	file:
+seq_nr1	plugins/cy8mrln-palmpre.c	/^	uint8_t		seq_nr1;		\/* incremented if seq_nr0 == scanrate *\/$/;"	m	struct:cy8mrln_palmpre_input	file:
+seq_nr2	plugins/cy8mrln-palmpre.c	/^	uint16_t	seq_nr2;		\/* incremeted if seq_nr1 == 255 *\/$/;"	m	struct:cy8mrln_palmpre_input	file:
+setcolor	tests/fbutils.c	/^void setcolor(unsigned colidx, unsigned value)$/;"	f
+sig	tests/ts_calibrate.c	/^static void sig(int sig)$/;"	f	file:
+sig	tests/ts_harvest.c	/^static void sig(int sig)$/;"	f	file:
+sig	tests/ts_test.c	/^static void sig(int sig)$/;"	f	file:
+sleepmode	plugins/cy8mrln-palmpre.c	/^	int				sleepmode;$/;"	m	struct:tslib_cy8mrln_palmpre	file:
+sort_by_x	tests/testutils.c	/^static int sort_by_x(const void* a, const void *b)$/;"	f	file:
+sort_by_y	tests/testutils.c	/^static int sort_by_y(const void* a, const void *b)$/;"	f	file:
+sqr	plugins/dejitter.c	/^static int sqr (int x)$/;"	f	file:
+sqr	plugins/variance.c	/^static int sqr (int x)$/;"	f	file:
+stamp	plugins/ucb1x00-raw.c	/^	struct timeval stamp;$/;"	m	struct:ucb1x00_ts_event	typeref:struct:ucb1x00_ts_event::timeval	file:
+stderrfn	src/ts_error.c	/^static int stderrfn(const char *fmt, va_list ap)$/;"	f	file:
+swap_xy	plugins/linear.c	/^	int	swap_xy;$/;"	m	struct:tslib_linear	file:
+tatung	plugins/plugins.h	/^TSLIB_DECLARE_MODULE(tatung);$/;"	v
+tatung_mod_init	plugins/tatung-raw.c	/^	TSLIB_MODULE_INIT(tatung_mod_init);$/;"	v
+tatung_mod_init	plugins/tatung-raw.c	/^TSAPI struct tslib_module_info *tatung_mod_init(struct tsdev *dev, const char *params)$/;"	f
+tatung_ops	plugins/tatung-raw.c	/^static const struct tslib_ops tatung_ops =$/;"	v	typeref:struct:tslib_ops	file:
+tatung_read	plugins/tatung-raw.c	/^static int tatung_read(struct tslib_module_info *inf, struct ts_sample *samp, int nr)$/;"	f	file:
+tatung_ts_event	plugins/tatung-raw.c	/^struct tatung_ts_event { \/* Tatung touchscreen 4bytes protocol *\/$/;"	s	file:
+text	tests/ts_test.c	/^	char *text;$/;"	m	struct:ts_button	file:
+threshold_vars	plugins/pthres.c	/^static int threshold_vars(struct tslib_module_info *inf, char *str, void *data)$/;"	f	file:
+timestamp_mode	plugins/cy8mrln-palmpre.c	/^	int				timestamp_mode;$/;"	m	struct:tslib_cy8mrln_palmpre	file:
+touchkit_init	plugins/touchkit-raw.c	/^static int touchkit_init(int dev)$/;"	f	file:
+touchkit_ops	plugins/touchkit-raw.c	/^static const struct tslib_ops touchkit_ops = {$/;"	v	typeref:struct:tslib_ops	file:
+touchkit_read	plugins/touchkit-raw.c	/^static int touchkit_read(struct tslib_module_info *inf, struct ts_sample *samp,$/;"	f	file:
+ts_button	tests/ts_test.c	/^struct ts_button {$/;"	s	file:
+ts_close	src/ts_close.c	/^int ts_close(struct tsdev *ts)$/;"	f
+ts_config	src/ts_config.c	/^int ts_config(struct tsdev *ts)$/;"	f
+ts_error	src/ts_error.c	/^int ts_error(const char *fmt, ...)$/;"	f
+ts_error_fn	src/ts_error.c	/^int (*ts_error_fn)(const char *fmt, va_list ap) = stderrfn;$/;"	v
+ts_fd	src/ts_fd.c	/^int ts_fd(struct tsdev *ts)$/;"	f
+ts_flush	tests/testutils.c	/^void ts_flush (struct tsdev *ts)$/;"	f
+ts_galax_check_fd	plugins/galax-raw.c	/^static int ts_galax_check_fd (struct tslib_galax *i)$/;"	f	file:
+ts_galax_fini	plugins/galax-raw.c	/^static int ts_galax_fini (struct tslib_module_info *inf)$/;"	f	file:
+ts_galax_read	plugins/galax-raw.c	/^static int ts_galax_read (struct tslib_module_info *inf,$/;"	f	file:
+ts_harvest_put_cross	tests/ts_harvest.c	/^static void ts_harvest_put_cross (int x, int y, unsigned colidx)$/;"	f	file:
+ts_hist	plugins/dejitter.c	/^struct ts_hist {$/;"	s	file:
+ts_input_fini	plugins/input-raw.c	/^static int ts_input_fini(struct tslib_module_info *inf)$/;"	f	file:
+ts_input_read	plugins/input-raw.c	/^static int ts_input_read(struct tslib_module_info *inf,$/;"	f	file:
+ts_load_module	src/ts_load_module.c	/^int ts_load_module(struct tsdev *ts, const char *module, const char *params)$/;"	f
+ts_load_module_raw	src/ts_load_module.c	/^int ts_load_module_raw(struct tsdev *ts, const char *module, const char *params)$/;"	f
+ts_open	src/ts_open.c	/^struct tsdev *ts_open(const char *name, int nonblock)$/;"	f
+ts_option	src/ts_option.c	/^int ts_option(struct tsdev *ts, enum ts_param param, ...)$/;"	f
+ts_param	src/tslib.h	/^enum ts_param {$/;"	g
+ts_read	src/ts_read.c	/^int ts_read(struct tsdev *ts, struct ts_sample *samp, int nr)$/;"	f
+ts_read_raw	src/ts_read_raw.c	/^int ts_read_raw(struct tsdev *ts, struct ts_sample *samp, int nr)$/;"	f
+ts_sample	src/tslib.h	/^struct ts_sample {$/;"	s
+tsdev	src/tslib-private.h	/^struct tsdev {$/;"	s
+tslib_cy8mrln_palmpre	plugins/cy8mrln-palmpre.c	/^struct tslib_cy8mrln_palmpre $/;"	s	file:
+tslib_dejitter	plugins/dejitter.c	/^struct tslib_dejitter {$/;"	s	file:
+tslib_dmc	plugins/dmc-raw.c	/^struct tslib_dmc {$/;"	s	file:
+tslib_galax	plugins/galax-raw.c	/^struct tslib_galax {$/;"	s	file:
+tslib_input	plugins/input-raw.c	/^struct tslib_input {$/;"	s	file:
+tslib_linear	plugins/linear.c	/^struct tslib_linear {$/;"	s	file:
+tslib_linear_h2200	plugins/linear-h2200.c	/^struct tslib_linear_h2200 {$/;"	s	file:
+tslib_module_info	src/tslib-filter.h	/^struct tslib_module_info {$/;"	s
+tslib_module_init	src/tslib-filter.h	/^typedef struct tslib_module_info *(*tslib_module_init)(struct tsdev *dev, const char *params);$/;"	t	typeref:struct:tslib_module_init
+tslib_modules	src/ts_load_module.c	/^} tslib_modules[] = {$/;"	v	typeref:struct:__anon2	file:
+tslib_ops	src/tslib-filter.h	/^struct tslib_ops {$/;"	s
+tslib_parse_vars	src/ts_parse_vars.c	/^int tslib_parse_vars(struct tslib_module_info *mod,$/;"	f
+tslib_pthres	plugins/pthres.c	/^struct tslib_pthres {$/;"	s	file:
+tslib_variance	plugins/variance.c	/^struct tslib_variance {$/;"	s	file:
+tslib_vars	src/tslib-filter.h	/^struct tslib_vars {$/;"	s
+tv	src/tslib.h	/^	struct timeval	tv;$/;"	m	struct:ts_sample	typeref:struct:ts_sample::timeval
+ucb1x00	plugins/plugins.h	/^TSLIB_DECLARE_MODULE(ucb1x00);$/;"	v
+ucb1x00_mod_init	plugins/ucb1x00-raw.c	/^	TSLIB_MODULE_INIT(ucb1x00_mod_init);$/;"	v
+ucb1x00_mod_init	plugins/ucb1x00-raw.c	/^TSAPI struct tslib_module_info *ucb1x00_mod_init(struct tsdev *dev, const char *params)$/;"	f
+ucb1x00_ops	plugins/ucb1x00-raw.c	/^static const struct tslib_ops ucb1x00_ops =$/;"	v	typeref:struct:tslib_ops	file:
+ucb1x00_read	plugins/ucb1x00-raw.c	/^static int ucb1x00_read(struct tslib_module_info *inf, struct ts_sample *samp, int nr)$/;"	f	file:
+ucb1x00_ts_event	plugins/ucb1x00-raw.c	/^struct ucb1x00_ts_event  {   \/* Used in UCB1x00 style touchscreens *\/$/;"	s	file:
+unknown	plugins/cy8mrln-palmpre.c	/^	uint8_t		unknown[4]; $/;"	m	struct:cy8mrln_palmpre_input	file:
+using_syn	plugins/input-raw.c	/^	int	using_syn;$/;"	m	struct:tslib_input	file:
+var	tests/fbutils.c	/^static struct fb_var_screeninfo var;$/;"	v	typeref:struct:fb_var_screeninfo	file:
+variance	plugins/plugins.h	/^TSLIB_DECLARE_MODULE(variance);$/;"	v
+variance_fini	plugins/variance.c	/^static int variance_fini(struct tslib_module_info *info)$/;"	f	file:
+variance_limit	plugins/variance.c	/^static int variance_limit(struct tslib_module_info *inf, char *str, void *data)$/;"	f	file:
+variance_mod_init	plugins/variance.c	/^	TSLIB_MODULE_INIT(variance_mod_init);$/;"	v
+variance_mod_init	plugins/variance.c	/^TSAPI struct tslib_module_info *variance_mod_init(struct tsdev *dev, const char *params)$/;"	f
+variance_ops	plugins/variance.c	/^static const struct tslib_ops variance_ops =$/;"	v	typeref:struct:tslib_ops	file:
+variance_read	plugins/variance.c	/^static int variance_read(struct tslib_module_info *info, struct ts_sample *samp, int nr)$/;"	f	file:
+variance_vars	plugins/variance.c	/^static const struct tslib_vars variance_vars[] =$/;"	v	typeref:struct:tslib_vars	file:
+verbose	plugins/cy8mrln-palmpre.c	/^	int				verbose;$/;"	m	struct:tslib_cy8mrln_palmpre	file:
+w	tests/ts_test.c	/^	int x, y, w, h;$/;"	m	struct:ts_button	file:
+weight	plugins/dejitter.c	/^static const unsigned char weight [NR_SAMPHISTLEN - 1][NR_SAMPHISTLEN + 1] =$/;"	v	file:
+width	tests/font.h	/^    int width, height;$/;"	m	struct:fbcon_font_desc
+wot_scanrate	plugins/cy8mrln-palmpre.c	/^	int				wot_scanrate;$/;"	m	struct:tslib_cy8mrln_palmpre	file:
+wot_threshold	plugins/cy8mrln-palmpre.c	/^	int				wot_threshold;$/;"	m	struct:tslib_cy8mrln_palmpre	file:
+x	plugins/arctic2-raw.c	/^	signed int x;$/;"	m	struct:arctic2_ts_event	file:
+x	plugins/collie-raw.c	/^	long x;$/;"	m	struct:collie_ts_event	file:
+x	plugins/corgi-raw.c	/^	short x;$/;"	m	struct:corgi_ts_event	file:
+x	plugins/dejitter.c	/^	int x;$/;"	m	struct:ts_hist	file:
+x	plugins/dejitter.c	/^	int x;$/;"	m	struct:tslib_dejitter	file:
+x	plugins/h3600-raw.c	/^	unsigned short x;$/;"	m	struct:h3600_ts_event	file:
+x	plugins/mk712-raw.c	/^	unsigned int x;$/;"	m	struct:mk712_ts_event	file:
+x	plugins/ucb1x00-raw.c	/^	unsigned short x;$/;"	m	struct:ucb1x00_ts_event	file:
+x	src/tslib.h	/^	int		x;$/;"	m	struct:ts_sample
+x	tests/ts_calibrate.c	/^	int x[5], xfb[5];$/;"	m	struct:__anon1	file:
+x	tests/ts_test.c	/^	int x, y, w, h;$/;"	m	struct:ts_button	file:
+x1	plugins/tatung-raw.c	/^	unsigned char x1;$/;"	m	struct:tatung_ts_event	file:
+x2	plugins/tatung-raw.c	/^	unsigned char x2;$/;"	m	struct:tatung_ts_event	file:
+xfb	tests/ts_calibrate.c	/^	int x[5], xfb[5];$/;"	m	struct:__anon1	file:
+xres	tests/fbutils.c	/^__u32 xres, yres;$/;"	v
+y	plugins/arctic2-raw.c	/^	signed int y;$/;"	m	struct:arctic2_ts_event	file:
+y	plugins/collie-raw.c	/^	long y;$/;"	m	struct:collie_ts_event	file:
+y	plugins/corgi-raw.c	/^	short y;$/;"	m	struct:corgi_ts_event	file:
+y	plugins/dejitter.c	/^	int y;$/;"	m	struct:ts_hist	file:
+y	plugins/dejitter.c	/^	int y;$/;"	m	struct:tslib_dejitter	file:
+y	plugins/h3600-raw.c	/^	unsigned short y;$/;"	m	struct:h3600_ts_event	file:
+y	plugins/mk712-raw.c	/^	unsigned int y;$/;"	m	struct:mk712_ts_event	file:
+y	plugins/ucb1x00-raw.c	/^	unsigned short y;$/;"	m	struct:ucb1x00_ts_event	file:
+y	src/tslib.h	/^	int		y;$/;"	m	struct:ts_sample
+y	tests/ts_calibrate.c	/^	int y[5], yfb[5];$/;"	m	struct:__anon1	file:
+y	tests/ts_test.c	/^	int x, y, w, h;$/;"	m	struct:ts_button	file:
+y1	plugins/tatung-raw.c	/^	unsigned char y1;$/;"	m	struct:tatung_ts_event	file:
+y2	plugins/tatung-raw.c	/^	unsigned char y2;$/;"	m	struct:tatung_ts_event	file:
+yfb	tests/ts_calibrate.c	/^	int y[5], yfb[5];$/;"	m	struct:__anon1	file:
+yres	tests/fbutils.c	/^__u32 xres, yres;$/;"	v
