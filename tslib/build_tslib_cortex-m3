@@ -12,4 +12,4 @@ export OBJDUMP=arm-uclinuxeabi-objdump
 export CFLAGS="-I. -I/usr/local/hujiafu/minigui/cross/arm/cortex-m3/include -mcpu=cortex-m3 -mthumb -static"
 export LDFLAGS="-L/usr/local/hujiafu/minigui/cross/arm/cortex-m3/lib"
 
-./configure --build=i686-linux --host=arm-linux --enable-static=yes --enable-shared=no --enable-linear=static --enable-input=static --prefix=/usr/local/hujiafu/minigui/cross/arm/cortex-m3
+./configure --build=i686-linux --host=arm-linux --enable-static=yes --enable-shared=no --enable-linear=static --enable-input=static --enable-dejitter=static --enable-pthres=static --enable-variance=static --prefix=/usr/local/minigui/cross/arm/cortex-m3
