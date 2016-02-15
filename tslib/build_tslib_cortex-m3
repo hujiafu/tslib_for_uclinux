@@ -1,3 +1,7 @@
+./autogen.sh
+
+make clean
+
 export CC=arm-uclinuxeabi-gcc
 export CPP=arm-uclinuxeabi-cpp
 export CXX=arm-uclinuxeabi-g++
