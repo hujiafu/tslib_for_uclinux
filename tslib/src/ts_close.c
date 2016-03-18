@@ -32,7 +32,7 @@ int ts_close(struct tsdev *ts)
 		handle = info->handle;
 		info->ops->fini(info);
 		if (handle)
-			dlclose(handle);
+		//	dlclose(handle);
 		
 		info = next;
 	}
