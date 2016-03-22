@@ -46,6 +46,8 @@ int ts_config(struct tsdev *ts)
 		conffile = strdup (TS_CONF);
 	}
 
+	printf("confile %s\n", conffile);
+
 	f = fopen(conffile, "r");
 	if (!f) {
 		perror("Couldnt open tslib config file");

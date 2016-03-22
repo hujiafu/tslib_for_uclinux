@@ -204,7 +204,7 @@ int main()
 	if( (tsdevice = getenv("TSLIB_TSDEVICE")) != NULL ) {
 		ts = ts_open(tsdevice,0);
 	} else {
-		if (!(ts = ts_open("/dev/input/event0", 0)))
+		if (!(ts = ts_open("/dev/event0", 0)))
 			ts = ts_open("/dev/touchscreen/ucb1x00", 0);
 	}
 

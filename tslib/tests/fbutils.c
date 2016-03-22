@@ -63,7 +63,8 @@ int open_framebuffer(void)
 		consoledevice = defaultconsoledevice;
 
 	if (strcmp (consoledevice, "none") != 0) {
-		sprintf (vtname,"%s%d", consoledevice, 1);
+		sprintf (vtname,"%s%d", consoledevice, 0);
+			printf("vtname %s\n", vtname);
         	fd = open (vtname, O_WRONLY);
         	if (fd < 0) {
         	        perror("open consoledevice");
