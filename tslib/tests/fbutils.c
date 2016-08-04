@@ -45,7 +45,7 @@ static unsigned colormap [256];
 __u32 xres, yres;
 
 static char *defaultfbdevice = "/dev/fb0";
-static char *defaultconsoledevice = "/dev/tty";
+static char *defaultconsoledevice = "none";
 static char *fbdevice = NULL;
 static char *consoledevice = NULL;
 
